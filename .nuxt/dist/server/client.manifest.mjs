@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/sebas/OneDrive/Documentos/App%20dsllo/App-tasks/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"

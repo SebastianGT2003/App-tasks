@@ -98,8 +98,14 @@
     </v-card>
   </div>
 </template>
+
 <script>
-const user = ref({ })
+ const user = ref({
+      name: '',
+      correo: '',
+      contraseña: '',
+      confir_contraseña: '',
+    });
   export default {
     data: () => ({
       visible: false,
